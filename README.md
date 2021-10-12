@@ -1,4 +1,4 @@
-# Galile_Satellite_Positi
+# Galile_Satellite_Position
 
 Proje galileo uydularinin anlik konumu bulan projedir
 
