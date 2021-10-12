@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Matlab_mga.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Matlab_mga.dir/objects.a @CMakeFiles\Matlab_mga.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Matlab_mga.dir/objects.a -Wl,--no-whole-archive -o Matlab_mga.exe -Wl,--out-implib,libMatlab_mga.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Matlab_mga.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/PC_983_ADMIN/CLionProjects/Matlab_mga/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC_983_ADMIN/CLionProjects/Matlab_mga/cmake-build-debug/CMakeFiles/Matlab_mga.dir
+C:/Users/PC_983_ADMIN/CLionProjects/Matlab_mga/cmake-build-debug/CMakeFiles/rebuild_cache.dir

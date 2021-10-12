@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC_983_ADMIN/CLionProjects/Matlab_mga/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+fstream
+-
+stdlib.h
+-
+bits/stdc++.h
+-
+math.h
+-
+unordered_map
+-
+iostream
+-
+string
+-
+stdio.h
+-
+time.h
+-
+ctime
+-
+
