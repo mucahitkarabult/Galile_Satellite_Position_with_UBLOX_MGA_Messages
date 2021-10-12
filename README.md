@@ -10,3 +10,6 @@ ve Data_gal klasörü olusturup tab formatinda ephemeres bilgilerini bu klasör�
 Matlab bu ephemeres bilgilerini okuyup islemi yapiyor.
 
 MGA_GAL_NAVIGASYON_COZUMLEME Matlab_mga.exe'in kaynak kodu olan projedir
+
+Program Çıktısı
+![image](https://user-images.githubusercontent.com/76858679/136969294-381b1dbc-4270-4e25-974b-9ccf515f0b90.png)
